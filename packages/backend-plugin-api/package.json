@@ -58,6 +58,7 @@
     "luxon": "^3.0.0"
   },
   "devDependencies": {
-    "@backstage/cli": "workspace:^"
+    "@backstage/cli": "workspace:^",
+    "@types/luxon": "^3.0.0"
   }
 }
